@@ -25,7 +25,7 @@ A web-based application for managing business listings with customer ratings and
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone "https://github.com/anshika282/business-listing.git"
 cd business-listing
 ```
 
