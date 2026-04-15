@@ -101,19 +101,3 @@ business-listing/
 
 ### Rating System
 - `POST /ajax/rating_ajax.php?action=submit` - Submit rating
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is open source. Please check the license file for details.
-
-## Support
-
-For issues or questions, please create an issue in the repository or contact the development team.
