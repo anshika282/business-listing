@@ -1,0 +1,7 @@
+# Database configuration with secrets
+config/db.php
+
+
+# Temporary files
+*.tmp
+*.swp
